@@ -13,6 +13,7 @@
 		473D803926E544F8004DE865 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 473D803726E544F8004DE865 /* Main.storyboard */; };
 		473D803B26E544FA004DE865 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 473D803A26E544FA004DE865 /* Assets.xcassets */; };
 		473D803E26E544FA004DE865 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 473D803C26E544FA004DE865 /* LaunchScreen.storyboard */; };
+		473D804626E54FCC004DE865 /* ооп 1 задание in Resources */ = {isa = PBXBuildFile; fileRef = 473D804526E54FCC004DE865 /* ооп 1 задание */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		473D803A26E544FA004DE865 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		473D803D26E544FA004DE865 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		473D803F26E544FA004DE865 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		473D804526E54FCC004DE865 /* ооп 1 задание */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "ооп 1 задание"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				473D803326E544F8004DE865 /* SceneDelegate.swift */,
 				473D803526E544F8004DE865 /* ViewController.swift */,
 				473D803726E544F8004DE865 /* Main.storyboard */,
+				473D804526E54FCC004DE865 /* ооп 1 задание */,
 				473D803A26E544FA004DE865 /* Assets.xcassets */,
 				473D803C26E544FA004DE865 /* LaunchScreen.storyboard */,
 				473D803F26E544FA004DE865 /* Info.plist */,
@@ -126,6 +129,7 @@
 			files = (
 				473D803E26E544FA004DE865 /* LaunchScreen.storyboard in Resources */,
 				473D803B26E544FA004DE865 /* Assets.xcassets in Resources */,
+				473D804626E54FCC004DE865 /* ооп 1 задание in Resources */,
 				473D803926E544F8004DE865 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
